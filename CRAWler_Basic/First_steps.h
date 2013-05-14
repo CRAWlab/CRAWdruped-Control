@@ -17,3 +17,4 @@ PROGMEM prog_uint16_t Forward_1[] = {12, 551, 453, 357, 662, 809, 197, 431, 569,
 PROGMEM transition_t Go_Forward[] = {{0,42} ,{Forward,100} ,{Forward_1,100} ,{Forward_2,100} ,{Forward_3,100} ,{Forward_4,100} ,{Forward_5,100} ,{Forward_6,100} ,{Forward_7,100} ,{Forward_8,100} ,{Forward_1,100} ,{Forward_2,100} ,{Forward_3,100} ,{Forward_4,100} ,{Forward_5,100} ,{Forward_6,100} ,{Forward_7,100} ,{Forward_8,100} ,{Forward_1,100} ,{Forward_2,100} ,{Forward_3,100} ,{Forward_4,100} ,{Forward_5,100} ,{Forward_6,100} ,{Forward_7,100} ,{Forward_8,100} ,{Forward_1,70} ,{Forward_2,70} ,{Forward_3,70} ,{Forward_4,70} ,{Forward_5,70} ,{Forward_6,70} ,{Forward_7,70} ,{Forward_8,70} ,{Forward_1,70} ,{Forward_2,70} ,{Forward_3,70} ,{Forward_4,70} ,{Forward_5,70} ,{Forward_6,70} ,{Forward_7,70} ,{Forward_8,70} ,{Forward,100} };
 
 #endif
+
