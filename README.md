@@ -1,7 +1,7 @@
 CRAWdruped Control
 -----
 
-This repository includes code for the [Trossen Robotics PhantomX Quadruped](http://www.trossenrobotics.com/p/PhantomX-AX-12-Quadruped.aspx), nicknamed the CRAWler in the lab.
+This repository includes code for the [Trossen Robotics PhantomX Quadruped](http://www.trossenrobotics.com/p/PhantomX-AX-12-Quadruped.aspx), nicknamed the CRAWdruped in the lab.
 
 Additional places to look for help:
 * [Arbotix Main Page](http://code.google.com/p/arbotix/)
